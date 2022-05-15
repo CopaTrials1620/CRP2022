@@ -1,0 +1,16 @@
+External_Id__c,Name,Assigned_To__r.Username,Status__c,Release_Plan__r.External_Id__c
+TRP-0001,Product Team,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0002,Sales Engineering,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0003,Marketing Communications,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0004,InfoSec & IT Operations,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0005,Product Technical Enablement,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0006,PR/AR,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0007,Copado Community & Academy,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0008,Marketing Content,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0009,Legal,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0010,Sales Operations,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0011,Copado Knowledge Base,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0012,Accelerate,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0013,PS and Alliances,jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0014,"CSMs, Renewals and Support",jnelson@relreaditesting.com,Planned,RP-0001
+TRP-0015,Services & Implementations,jnelson@relreaditesting.com,Planned,RP-0001
