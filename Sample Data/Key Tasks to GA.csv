@@ -1,0 +1,152 @@
+External_Id__c,Name,Assigned_To__r.Username,Status__c,Start_Date__c,Finish_Date__c,Team_Release_Plan__r.External_Id__c
+KTGA-0001,Final Release Features and Positioning,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-31,TRP-0008
+KTGA-0002,Training AEs on what's available for trial,jnelson@relreaditesting.com,Planned,2022-08-15,2022-08-16,TRP-0002
+KTGA-0003,Create Consensus Videos,jnelson@relreaditesting.com,Planned,2022-08-17,2022-08-19,TRP-0002
+KTGA-0004,PLMs/POs to Lead June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0001
+KTGA-0005,July Draft Versions of Documentation,jnelson@relreaditesting.com,Planned,2022-06-20,2022-07-15,TRP-0011
+KTGA-0006,"Community - Upgrade Page: Rename Tab, Link, Install Page",jnelson@relreaditesting.com,Planned,2022-08-26,2022-09-01,TRP-0007
+KTGA-0007,Community - Release Topics for Discussion Group,jnelson@relreaditesting.com,Planned,2022-08-26,2022-09-01,TRP-0007
+KTGA-0008,Academy - Fall 22 Highlights Module,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0007
+KTGA-0009,Implementation & PAs - Attend Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0015
+KTGA-0010,"Certs - Maintenance Fundamentals I, Fundamentals II and Consultant Certs",jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0007
+KTGA-0011,"Update Loopio / Security Questionnaire answer bank, if needed, for new Features",jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0004
+KTGA-0012,Community - Release Promo at Community Events,jnelson@relreaditesting.com,Planned,2022-08-26,2022-09-01,TRP-0007
+KTGA-0013,PMMs - Attend July G.A. Internal Cohort - CRT Integration for Copado Classic,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0008
+KTGA-0014,Release Accelerate Session #1,jnelson@relreaditesting.com,Planned,2022-08-02,2022-08-02,TRP-0012
+KTGA-0015,Release Accelerate Session #3,jnelson@relreaditesting.com,Planned,2022-08-16,2022-08-16,TRP-0012
+KTGA-0016,Update Partner Onboarding Capacity Model,jnelson@relreaditesting.com,Planned,2022-08-01,2022-09-09,TRP-0013
+KTGA-0017,"TED Training - Pricing, Ordering, Legal, Procurement",jnelson@relreaditesting.com,Planned,2022-08-15,2022-08-19,TRP-0012
+KTGA-0018,Internal Certification Test Ready,jnelson@relreaditesting.com,Planned,2022-08-15,2022-08-19,TRP-0012
+KTGA-0019,PMMs - Attend May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0012
+KTGA-0020,PMMs - Attend July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0012
+KTGA-0021,PMMs - Attend June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0012
+KTGA-0022,Update Partner Enablement Webinars for Key Features,jnelson@relreaditesting.com,Planned,2022-08-01,2022-09-02,TRP-0013
+KTGA-0023,Update prospective partner signup form for website,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0013
+KTGA-0024,Qualification Questions for prospective consulting partners,jnelson@relreaditesting.com,Planned,2022-08-01,2022-09-02,TRP-0013
+KTGA-0025,Update Partner Enablement Plan,jnelson@relreaditesting.com,Planned,2022-08-01,2022-09-09,TRP-0013
+KTGA-0026,Partner Newsletter,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0013
+KTGA-0027,Consulting Partner Prospect First Call Deck,jnelson@relreaditesting.com,Planned,2022-08-01,2022-09-02,TRP-0013
+KTGA-0028,Update Partner Influence Attribution Process/Model,jnelson@relreaditesting.com,Planned,2022-08-01,2022-09-02,TRP-0013
+KTGA-0029,Release Notes - Copado Classic,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0011
+KTGA-0030,Upgrade Instructions - Copado CI/CD,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0011
+KTGA-0031,Release Notes - Copado Multi Cloud,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0011
+KTGA-0032,CTWs - Attend July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0011
+KTGA-0033,Early release: Individual Demo Environment Updates,jnelson@relreaditesting.com,Planned,2022-06-20,2022-07-15,TRP-0002
+KTGA-0034,Early release: Shared Demo Environment Updates,jnelson@relreaditesting.com,Planned,2022-06-20,2022-07-15,TRP-0002
+KTGA-0035,SEs - Attend June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0002
+KTGA-0036,SEs - Attend May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0002
+KTGA-0037,SEs - Attend July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0002
+KTGA-0038,CTWs - Attend June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0011
+KTGA-0039,Release Accelerate Session #2,jnelson@relreaditesting.com,Planned,2022-08-09,2022-08-09,TRP-0012
+KTGA-0040,PLMs/POs to Lead Release Readiness Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0001
+KTGA-0041,Training on the Upgrade Process for CS Team,jnelson@relreaditesting.com,Planned,2022-08-08,2022-08-12,TRP-0014
+KTGA-0042,Academy - How To Videos,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0007
+KTGA-0043,Deliver Analyst Briefings,jnelson@relreaditesting.com,Planned,2022-08-22,2022-08-24,TRP-0006
+KTGA-0044,AE/BDR Value Prop release training and certification,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-12,TRP-0002
+KTGA-0045,SE Value Prop release training and certification,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-12,TRP-0002
+KTGA-0046,Feature Freeze,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-12,TRP-0001
+KTGA-0047,G.A. Release,jnelson@relreaditesting.com,Planned,2022-09-01,2022-09-01,TRP-0001
+KTGA-0048,Talk track and/or process on qualifying customer fit for new features,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0014
+KTGA-0049,Beta Version Ready for Demos and July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-14,2022-07-14,TRP-0001
+KTGA-0050,Existing Customers Upgrade Campaign - Outbound,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-23,TRP-0014
+KTGA-0051,CRT Integration for Copado Classic goes G.A.,jnelson@relreaditesting.com,Planned,2022-07-15,2022-07-15,TRP-0001
+KTGA-0052,PMMs - Attend May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0003
+KTGA-0053,PMMs - Attend July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0003
+KTGA-0054,PMMs - Attend June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0003
+KTGA-0055,Post-G.A. Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0005
+KTGA-0056,Attend Release Accelerate Session #1,jnelson@relreaditesting.com,Planned,2022-08-02,2022-08-02,TRP-0013
+KTGA-0057,CICD Demo Environment,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0002
+KTGA-0058,Additional Product(s) Demo Environments,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0002
+KTGA-0059,Update Demo Scripts for CICD,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0002
+KTGA-0060,Webinar (Summit) - Breakout Session I,jnelson@relreaditesting.com,Planned,2022-09-13,2022-09-13,TRP-0003
+KTGA-0061,June Draft Versions of Documentation,jnelson@relreaditesting.com,Planned,2022-05-23,2022-06-17,TRP-0011
+KTGA-0062,ID Analysts / Influencers,jnelson@relreaditesting.com,Planned,2022-07-25,2022-07-29,TRP-0006
+KTGA-0063,Analyst Briefing Set Up Begins,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-19,TRP-0006
+KTGA-0064,June Pre-Release Readiness Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0005
+KTGA-0065,July Release Readiness Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0005
+KTGA-0066,May Pre-Release Readiness Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0005
+KTGA-0067,Upgrade Instructions - Robotic Testing,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0011
+KTGA-0068,Release Notes - Robotic Testing,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-26,TRP-0011
+KTGA-0069,InfoSec/IT - Lead Security Cohort for New Features,jnelson@relreaditesting.com,Planned,2022-08-15,2022-08-19,TRP-0004
+KTGA-0070,CTWs - Attend Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0011
+KTGA-0071,PMMs - Attend Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0012
+KTGA-0072,Attend Release Accelerate Session #2,jnelson@relreaditesting.com,Planned,2022-08-09,2022-08-09,TRP-0013
+KTGA-0073,Attend Release Accelerate Session #3,jnelson@relreaditesting.com,Planned,2022-08-16,2022-08-16,TRP-0013
+KTGA-0074,"CSAs, CCEs & Support - Attend Final Post-Release Internal Cohorts",jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0014
+KTGA-0075,Webinar Plan promotion,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-30,TRP-0003
+KTGA-0076,Webinar - Fall '22 Preview,jnelson@relreaditesting.com,Planned,2022-08-31,2022-08-31,TRP-0003
+KTGA-0077,"Academy, Community & Certs - Attend Final Post-Release Internal Cohorts",jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0007
+KTGA-0078,Webinar (Summit) - Keynote,jnelson@relreaditesting.com,Planned,2022-09-13,2022-09-13,TRP-0003
+KTGA-0079,Update Additional Product(s) Demo Scripts,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0002
+KTGA-0080,Update trials and trial definitions,jnelson@relreaditesting.com,Planned,2022-08-08,2022-08-12,TRP-0002
+KTGA-0081,Fall '22 FAQs,jnelson@relreaditesting.com,Planned,2022-08-29,2022-09-02,TRP-0011
+KTGA-0082,Identify new Changes for Fall '22,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0009
+KTGA-0083,Webinar (Summit) - Breakout Session II,jnelson@relreaditesting.com,Planned,2022-09-13,2022-09-13,TRP-0003
+KTGA-0084,Implementation & PAs - Attend June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0015
+KTGA-0085,Implementation & PAs - Attend May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0015
+KTGA-0086,Implementation & PAs - Attend July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0015
+KTGA-0087,Security Planning - PA Addendum for Security Planning,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0009
+KTGA-0088,PS and Alliances - Attend Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0013
+KTGA-0089,First Call Deck - 1st Draft,jnelson@relreaditesting.com,Planned,2022-08-05,2022-08-11,TRP-0008
+KTGA-0090,First Call Deck - Final,jnelson@relreaditesting.com,Planned,2022-08-12,2022-08-18,TRP-0008
+KTGA-0091,Release Fast (CICD-MC) First Call Deck,jnelson@relreaditesting.com,Planned,2022-08-12,2022-08-18,TRP-0008
+KTGA-0092,Improve Quality (CRT) First Call Deck,jnelson@relreaditesting.com,Planned,2022-08-12,2022-08-18,TRP-0008
+KTGA-0093,Copado ROI First Call Deck,jnelson@relreaditesting.com,Planned,2022-08-12,2022-08-18,TRP-0008
+KTGA-0094,PMMs - Attend May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0008
+KTGA-0095,PMMs - Attend July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0008
+KTGA-0096,PMMs - Attend June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0008
+KTGA-0097,Identify Release Digital Graphic Assets,jnelson@relreaditesting.com,Planned,2022-07-20,2022-07-25,TRP-0008
+KTGA-0098,Core Release Graphics Done,jnelson@relreaditesting.com,Planned,2022-07-25,2022-07-29,TRP-0008
+KTGA-0099,Set Up Release Campaign and Sub-Campaigns,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-04,TRP-0008
+KTGA-0100,PLMs / POs to Lead Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0001
+KTGA-0101,PS and Alliances - Review of Release Notes and Upgrade Instructions,jnelson@relreaditesting.com,Planned,2022-06-20,2022-09-09,TRP-0013
+KTGA-0102,"Academy, Community & Certs - Attend May Pre-Release Internal Cohorts",jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0007
+KTGA-0103,SEs - Attend Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0002
+KTGA-0104,PMMs - Attend Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0008
+KTGA-0105,PMMs - Attend July G.A. Internal Cohort - CRT Integration for Copado Classic,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0012
+KTGA-0106,CTWs - Attend July G.A. Internal Cohort - CRT Integration for Copado Classic,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0011
+KTGA-0107,July G.A. Internal Cohort - CRT Integration for Copado Classic,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0005
+KTGA-0108,"Academy, Community & Certs - Attend July G.A. Internal Cohort - CRT Integration",jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0007
+KTGA-0109,PO (SK) to Lead Pre-G.A. Internal Cohort - CRT Integration for Copado Classic,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0001
+KTGA-0110,PMMs - Attend Final Post-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-09-05,2022-09-16,TRP-0003
+KTGA-0111,Sales Enablement review of first call deck,jnelson@relreaditesting.com,Planned,2022-08-23,2022-08-25,TRP-0008
+KTGA-0112,Updates to Vertical First Call Decks,jnelson@relreaditesting.com,Planned,2022-08-31,2022-08-31,TRP-0008
+KTGA-0113,Updates to Partner First Call Decks,jnelson@relreaditesting.com,Planned,2022-08-31,2022-08-31,TRP-0008
+KTGA-0114,Updates to Vertical Solution Briefs,jnelson@relreaditesting.com,Planned,2022-08-31,2022-08-31,TRP-0008
+KTGA-0115,Website - Spring 22 Updates,jnelson@relreaditesting.com,Planned,2022-08-31,2022-08-31,TRP-0008
+KTGA-0116,Global Press Release,jnelson@relreaditesting.com,Planned,2022-08-31,2022-08-31,TRP-0008
+KTGA-0117,Copado DevOps Exchange First Call Deck,jnelson@relreaditesting.com,Planned,2022-08-12,2022-08-18,TRP-0008
+KTGA-0118,PS and Alliances - Attend July G.A. Internal Cohort - CRT Integration for Copado,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0013
+KTGA-0119,PMMs - Attend July G.A. Internal Cohort - CRT Integration for Copado Classic,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0003
+KTGA-0120,Implementation & PAs - Attend July G.A. Internal Cohort - CRT Integration for Co,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0015
+KTGA-0121,"CSAs, CCEs & Support - Attend July G.A. Internal Cohort - CRT Integration for Co",jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0014
+KTGA-0122,"Packaging for core and extensions (Core-Deployer v20, MCDX v3, Quality Tools v1,",jnelson@relreaditesting.com,Planned,2022-08-27,2022-08-28,TRP-0001
+KTGA-0123,Community - Release Promo Banner for Homepage,jnelson@relreaditesting.com,Planned,2022-08-26,2022-09-01,TRP-0007
+KTGA-0124,Beta Version Ready for May Cohorts,jnelson@relreaditesting.com,Planned,2022-05-13,2022-05-13,TRP-0001
+KTGA-0125,PLMs/POs to Lead May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0001
+KTGA-0126,Beta Version Ready for June Cohorts,jnelson@relreaditesting.com,Planned,2022-06-09,2022-06-09,TRP-0001
+KTGA-0127,"CSAs, CCEs & Support - Attend Security Training with IT Ops",jnelson@relreaditesting.com,Planned,2022-08-15,2022-08-19,TRP-0014
+KTGA-0128,Webinar (Summit) -  Breakout Session III,jnelson@relreaditesting.com,Planned,2022-09-13,2022-09-13,TRP-0003
+KTGA-0129,DevOps Day Summit - Fall Release,jnelson@relreaditesting.com,Planned,2022-09-13,2022-09-13,TRP-0003
+KTGA-0130,SEs - Attend July G.A. Internal Cohort - CRT Integration for Copado Classic,jnelson@relreaditesting.com,Planned,2022-07-05,2022-07-13,TRP-0002
+KTGA-0131,SKU Creates or Updates,jnelson@relreaditesting.com,Planned,2022-07-11,2022-07-29,TRP-0010
+KTGA-0132,Align Internal Training Plan with Sales Enablement,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-05,TRP-0012
+KTGA-0133,CTWs - Attend May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0011
+KTGA-0134,"Academy, Community & Certs - Attend June Pre-Release Internal Cohorts",jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0007
+KTGA-0135,"CSAs, CCEs & Support - Attend July Internal Release Readiness Cohorts",jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0014
+KTGA-0136,"CSAs, CCEs & Support - Attend May Pre-Release Internal Cohorts",jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0014
+KTGA-0137,Price List Updates,jnelson@relreaditesting.com,Planned,2022-07-18,2022-08-05,TRP-0010
+KTGA-0138,Finalize Renewal decisions,jnelson@relreaditesting.com,Planned,2022-07-25,2022-08-12,TRP-0010
+KTGA-0139,Finalize Packaging decisions,jnelson@relreaditesting.com,Planned,2022-07-25,2022-08-12,TRP-0010
+KTGA-0140,Waitlist/process/cost for getting implementation resources for New Features,jnelson@relreaditesting.com,Planned,2022-08-01,2022-08-19,TRP-0015
+KTGA-0141,"CSAs, CCEs & Support - Attend June Pre-Release Internal Cohorts",jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0014
+KTGA-0142,First Call Certification,jnelson@relreaditesting.com,Planned,2022-08-22,2022-08-26,TRP-0012
+KTGA-0143,Implementation & PAs - Attend Security Training with IT Ops,jnelson@relreaditesting.com,Planned,2022-08-15,2022-08-19,TRP-0015
+KTGA-0144,Update implementation project plans,jnelson@relreaditesting.com,Planned,2022-08-01,2022-09-09,TRP-0015
+KTGA-0145,Pricing Decisions,jnelson@relreaditesting.com,Planned,2022-07-18,2022-08-05,TRP-0010
+KTGA-0146,Services Team Review of Release Notes and Upgrade Instructions,jnelson@relreaditesting.com,Planned,2022-06-20,2022-09-09,TRP-0015
+KTGA-0147,PS and Alliances - Attend June Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-06-13,2022-06-17,TRP-0013
+KTGA-0148,PS and Alliances - Attend May Pre-Release Internal Cohorts,jnelson@relreaditesting.com,Planned,2022-05-16,2022-05-20,TRP-0013
+KTGA-0149,PS and Alliances - Attend July Internal Release Readiness Cohorts,jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0013
+KTGA-0150,"Academy, Community & Certs - Attend July Internal Release Readiness Cohorts",jnelson@relreaditesting.com,Planned,2022-07-18,2022-07-29,TRP-0007
+KTGA-0151,Code Freeze,jnelson@relreaditesting.com,Planned,2022-08-15,2022-09-01,TRP-0001
